@@ -1,4 +1,4 @@
-name: intl
+name: intl_custom
 version: 0.20.0-wip
 description: >-
   Contains code to deal with internationalized/localized messages, date and
